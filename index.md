@@ -48,7 +48,6 @@ I specialize in identifying critical web vulnerabilities, building custom securi
 - **The Problem:** Financial institutions struggle to trace fraudulent transfers across multiple hops in real-time.
 - **The Solution:** Co-developed with Angel Abena-Aso Darko. Built a Python/Flask prototype that tracks transfers hop-by-hop, displays remaining held amounts, enforces two-person approval for freezes, and logs every action for immutable auditing.
 - **Impact:** Advanced to Zonal Screening and pitched live to the judging panel.
-- 🔗 *[Link to GitHub Repo or Demo Video]*
 
 ### 🏦 SafeTrust Bank PLC (Vulnerable Training App)
 - **The Solution:** Developed a deliberately vulnerable Flask banking application to safely demonstrate IDOR and XSS vulnerabilities.
