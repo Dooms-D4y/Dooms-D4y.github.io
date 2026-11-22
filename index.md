@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isaac Owusu
-description: Offensive Security Researcher, Penetration Tester & Red Teamer
+description: Offensive Security Researcher & Penetration Tester
 ---
 
 # Isaac Owusu
@@ -11,7 +11,7 @@ description: Offensive Security Researcher, Penetration Tester & Red Teamer
 
 📍 Nkawkaw, Ghana (Available for Remote & On-site Engagements)  
 📧 [iowusu64749@gmail.com](mailto:iowusu64749@gmail.com) | 📱 [+233 53 264 1639](https://wa.me/233532641639)  
-🔗 [GitHub: Dooms-D4y](https://github.com/Dooms-D4y) | [LinkedIn](https://www.linkedin.com/in/isaac-owusu-8b7245399)
+🔗 [GitHub: Dooms-D4y](https://github.com/Dooms-D4y) | [LinkedIn](https://linkedin.com/in/isaac-owusu)
 
 [**🛡️ Book a Security Consultation**](mailto:iowusu64749@gmail.com?subject=Security%20Consultation%20Request) | [**📂 View My Projects**](#projects)
 
@@ -20,7 +20,7 @@ description: Offensive Security Researcher, Penetration Tester & Red Teamer
 ## 🎯 Professional Summary
 Security researcher and BSc Information Technology graduate (GCTU) with hands-on experience in offensive security, web application penetration testing, and network engineering. Ranked **#1 in Ghana** and **#19 globally** on CTFZone. 
 
-I specialize in identifying critical web vulnerabilities, building custom security tooling for authorized red team operations, and automating repeatable testing workflows. I am comfortable managing engagements end-to-end, from initial testing through clear, client-facing reporting.
+I specialize in identifying critical web vulnerabilities, building custom security tooling for authorized red team operations, and automating repeatable testing workflows. I manage engagements end-to-end, from initial testing through clear, client-facing reporting.
 
 ---
 
@@ -37,16 +37,15 @@ I specialize in identifying critical web vulnerabilities, building custom securi
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-000000?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 
 ---
 
 ## 🚀 Security Research & Projects
 
 ### 🏦 GCB Argus (Fraud Tracing Prototype)
-*Team Break Silos | GCB NSP Future Builders Innovation Challenge (Oct 2026)*
+*Team Break Silos | GCB NSP Future Builders Innovation Challenge (2026)*
 - **The Problem:** Financial institutions struggle to trace fraudulent transfers across multiple hops in real-time.
-- **The Solution:** Co-developed with Angel Abena-Aso Darko. Built a Python/Flask prototype that tracks transfers hop-by-hop, displays remaining held amounts, enforces two-person approval for freezes, and logs every action for immutable auditing.
+- **The Solution:** Co-developed a Python/Flask prototype that tracks transfers hop-by-hop, displays remaining held amounts, enforces two-person approval for freezes, and logs every action for immutable auditing.
 - **Impact:** Advanced to Zonal Screening and pitched live to the judging panel.
 
 ### 🏦 SafeTrust Bank PLC (Vulnerable Training App)
@@ -57,9 +56,9 @@ I specialize in identifying critical web vulnerabilities, building custom securi
 - **The Solution:** Developing a modular phishing simulation framework for authorized red team operations.
 - **Impact:** Designed to assess social engineering susceptibility and support proactive security awareness training. *(Available for private walkthrough on request).*
 
-### 📡 AirBorne
+### 📡 AirBorne & StealthGram Evolved
 - **AirBorne:** Built a wireless deauthentication tool in Bash (using Aircrack-ng) to test WiFi network resilience in authorized lab environments.
-
+- **StealthGram Evolved:** Built a modular payload framework in an isolated lab environment for educational security research, focused on obfuscation and persistence techniques for defensive purposes.
 
 ---
 
@@ -67,7 +66,6 @@ I specialize in identifying critical web vulnerabilities, building custom securi
 - **🌍 Global Recognition:** Ranked **#1 in Ghana** and **#19 globally** on the CTFZone competitive security platform.
 - **🔍 Vulnerability Research:** Discovered and responsibly disclosed a reflected XSS vulnerability in Dumpong Rural Bank's web infrastructure.
 - **⚙️ Infrastructure Management:** Executed a full recovery of a 2,000+ package Parrot OS production environment, restoring system performance and stability.
-- **🏅 Innovation Challenge:** Certificate of Participation, GCB NSP Future Builders Innovation Challenge (October 2026).
 
 ---
 
