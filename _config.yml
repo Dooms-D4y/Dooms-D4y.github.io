@@ -1,30 +1,45 @@
-# Site Settings
-title: Isaac Owusu
-tagline: Security Researcher,Penetration Tester & Red Teamer
-description: >-
-  Helping businesses secure their digital assets before hackers do. 
-  Ranked #1 in Ghana and #19 globally on CTFZone.
+# ----------------------------------------------------------
+# SITE SETTINGS
+# ----------------------------------------------------------
+title: "Isaac Owusu"
+tagline: "Security Researcher & Penetration Tester"
+description: "Helping businesses secure their digital assets before hackers do. Ranked #1 in Ghana and #19 globally on CTFZone."
 
-# Author Settings
+# ----------------------------------------------------------
+# AUTHOR SETTINGS
+# ----------------------------------------------------------
 author:
-  name: Isaac Owusu
-  email: iowusu64749@gmail.com
-  picture: /assets/icons/icon-192x192.png # We will change this to your photo later
+  name: "Isaac Owusu"
+  email: "iowusu64749@gmail.com"
+  picture: "/assets/icons/icon-192x192.png"
 
-# Theme Settings
+# ----------------------------------------------------------
+# THEME SETTINGS (Hydejack)
+# ----------------------------------------------------------
 hydejack:
-  no_mark_external: true
-   dark_mode: true
-  accent_color: '#00ff88' # A professional "cybersecurity green"
+  accent_color: "#00ff88"
   accent_image:
-    background: '#1a1a1a' # Dark background for a hacker/professional vibe
+    background: "#1a1a1a"
     overlay: false
-  theme_color: '#1a1a1a'
-  google_fonts: false # Keep it fast and privacy-friendly
+  theme_color: "#1a1a1a"
+  google_fonts: false
+  no_mark_external: true
+  dark_mode: true
 
-# Social Links (Update these)
+# ----------------------------------------------------------
+# SOCIAL LINKS
+# ----------------------------------------------------------
 social:
   links:
-    - https://github.com/Dooms-D4y
-    - https://www.linkedin.com/in/isaac-owusu-8b7245399 
-    - mailto:iowusu64749@gmail.com
+    - "https://github.com/Dooms-D4y"
+    - "https://linkedin.com/in/isaac-owusu"
+    - "mailto:iowusu64749@gmail.com"
+
+# ----------------------------------------------------------
+# GITHUB PAGES SPECIFIC
+# ----------------------------------------------------------
+theme: "jekyll-theme-hydejack"
+plugins:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-sitemap"
