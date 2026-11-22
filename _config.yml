@@ -13,6 +13,8 @@ author:
 
 # Theme Settings
 hydejack:
+  no_mark_external: true
+   dark_mode: true
   accent_color: '#00ff88' # A professional "cybersecurity green"
   accent_image:
     background: '#1a1a1a' # Dark background for a hacker/professional vibe
